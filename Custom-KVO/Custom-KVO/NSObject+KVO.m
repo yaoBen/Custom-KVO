@@ -8,6 +8,7 @@
 
 #import "NSObject+KVO.h"
 #import <objc/message.h>
+
 static NSString *const kXQKVOPrefix = @"XQKVONotifying_";
 static NSString *const kXQKVOAssiociateKey = @"kXQKVO_AssiociateKey";
 
